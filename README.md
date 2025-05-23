@@ -14,7 +14,7 @@ Problems Solved
 
 How to Use
 1. Run queries in  SQL Server editor.  
-2. Sample data: `database/sample_data.sql`.  
+2. Sample data: https://github.com/asifmostafa18/desktop-tutorial/blob/sql-project/queries/q1.sql 
 
 Sample Output
 https://github.com/asifmostafa18/desktop-tutorial/tree/sql-project/screenshots
