@@ -6,7 +6,7 @@ Solved 7 business problems using SQL queries on user login data.
 Problems Solved
 1. Identified inactive users  
 2. Quarterly engagement trends  
-3.Identied Specific Users 
+3. Identied Specific Users 
 4. Percentage change in sessions from last quarter
 5. Daily top performers
 6. Identify the best users
